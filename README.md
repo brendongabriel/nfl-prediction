@@ -75,4 +75,4 @@ Este projeto é de uso educacional e de pesquisa. Os dados utilizados são de do
 
 ---
 
-📬 Dúvidas ou sugestões? Fique à vontade para abrir uma issue ou contribuir!
+# Desenvolvedores - Brendon Gabriel Ribeiro da Silva, Milene Lima Aparecida, Gustavo Satig
