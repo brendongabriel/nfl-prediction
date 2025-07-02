@@ -50,7 +50,7 @@ O modelo será salvo em `models/trained_model.pkl`.
 ### 5. Visualize a animação de uma jogada
 
 ```bash
-python app/animate_play.py
+python app/animation.py
 ```
 
 O script seleciona uma jogada aleatória e exibe os jogadores se movendo, com a predição de jardas destacada.
