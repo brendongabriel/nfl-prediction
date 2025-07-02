@@ -1,0 +1,14 @@
+# Ignorar arquivos temporários e binários
+/src/__pycache__/
+*.pyc
+*.pkl
+
+# Ignorar pasta de dados
+data/
+
+# Ambientes e configs locais
+.env
+.vscode/
+
+# Ignorar modelos salvos
+models/
